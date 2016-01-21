@@ -6,7 +6,7 @@
   "description": "Convert a string to a constant case.",
   "keywords": ["constant", "case", "constantcase", "string"],
   "dependencies": {
-    "treetopllc/to-snake-case": "1.0.0"
+    "treetopllc/to-snake-case": "master"
   },
   "development": {
     "component/assert": "*"
